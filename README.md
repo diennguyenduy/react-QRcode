@@ -1,1 +1,1 @@
-# react-QRcode
+This project test react qr code modules
